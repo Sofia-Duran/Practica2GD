@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Caos en sistemas biológicos
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sofía C.
+    family-names: Durán
+    email: l22211752@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+    orcid: 'https://orcid.org/0009-0009-7052-8162'
+repository-code: 'https://github.com/Sofia-Duran/Practica2GD'
+keywords:
+  - Cáncer
+  - Caos
+  - Estabilidad
+  - Inmunoterapia
+  - Simulaciones numéricas
+  - Sistema no lineal
+license: BSD-2-Clause
+version: 1.o
+date-released: '2026-03-24'
