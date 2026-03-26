@@ -1,9 +1,9 @@
-[![Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Sofia-Duran/Practica2GD)
 
 # Práctica 2: Caos en sistemas biológicos
 
 ## Información de la estudiante
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+Durán Muñoz Sofía Cristina \[22211752]; l22211752@tectijuana.edu.mx
 
 Gemelos Digitales
 
