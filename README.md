@@ -34,11 +34,15 @@ tratamiento de inmunoterapia.
 Palabras clave: Caos; Conjuntos Compactos Invariantes; Condiciones de Estabilidad; Simulaciones Numéricas; Solución de EDOs.
 
 ## Actividades a realizar
-1. Diseñar un diagrama biológico sobre la dinámica del sistema y la interacción entre sus variables con las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
-2. 
-3.
-4.
-...
+1. Diseñar un diagrama biológico sobre la dinámica del sistema y que ilustre las interacciones mecánicas entre las tres poblaciones del sistema: células patológicas ($x$), sanas ($y$) y efectoras ($z$), mediante las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
+2. Evaluar la positividad y estabilidad del sistema para garantizar su relevancia biológica.
+3. Identificar analíticamente los puntos de equilibrio en escenarios de ausencia de patología ($x^* = 0$).
+4. Determinar la estabilidad asintótica local mediante la linearización del sistema, el cálculo de la matriz Jacobiana y el análisis de los valores propios ($\lambda$) resultantes.
+5. Programar un entorno en MATLAB que integre las funciones base del sistema, permitiendo la configuración paramétrica, el cálculo automático de equilibrios y la resolución numérica de las ecuaciones diferenciales ordinarias (EDOs).
+6. Implementar y contrastar tres esquemas numéricos de distinta precisión: Euler, Heun y Runge-Kutta de cuarto orden (RK4).
+7. Simular el comportamiento del sistema bajo condiciones específicas para caracterizar la emergencia de un atractor caótico, utilizando un paso de integración de alta resolución ($dt = 1 \times 10^{-4}$) para observar la sensibilidad a parámetros iniciales.
+8. Clasificar la convergencia del sistema hacia distintos regímenes dinámicos, tales como órbitas periódicas, ciclos límite (internos y externos) y convergencia a puntos de equilibrio.
+9. Realizar una comparación entre los métodos numéricos empleados, analizando las trayectorias tanto en el dominio del tiempo como en el espacio de fase para validar la fidelidad de cada aproximación.
 
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
